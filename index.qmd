@@ -1,0 +1,27 @@
+---
+title: "Hi, I'm Kassandra Cisneros"
+---
+
+::::: columns
+::: {.column width="30%"}
+![](images/Screen%20Shot%202025-04-21%20at%209.18.44%20PM.jpg){style="border-radius: 50%;"}
+:::
+
+::: {.column width="70%" style="padding-left: 3rem;"}
+I'm a \[Social Media Marketing and Analytics Specialist\]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+:::
+:::::
+
+## About Me
+
+I hold a \[M.S. in Digital Marketing (In Progress)\] from \[California Poly-Technic University Pomona\].
+
+## Let's Connect
+
+You can [kassandracisneros18\@gmail.com](mailto:you@example.com) or connect on [LinkedIn](www.linkedin.com/in/kassandra-cisneros).
+
+------------------------------------------------------------------------
+
+*Welcome to my portfolio.*
+
+[View Project on GitHub](https://github.com/kassandrac18/m10-health-dashboard)
