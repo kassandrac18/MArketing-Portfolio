@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: d2767f94-c856-41fa-9c88-fafbfab383be
+      url: 'https://kassandrac.quarto.pub/marketing-portfolio'
